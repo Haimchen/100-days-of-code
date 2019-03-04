@@ -15,6 +15,7 @@ While researching learning resources, I accidentally learned about some of the k
 Kind of productive first day, even though I did not write any "real" code.
 
 **Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1102701833750020098)
+
 **Link to work:** [Project Repo](https://github.com/Haimchen/100-days-of-code)
 
 **Resources** 
