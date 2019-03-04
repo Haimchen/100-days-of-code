@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Started on 2019-03-04
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: March 04, 2019
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
+Clone the log repo and first entry.
+Research GraphQl subscriptions (see links below).
+Research some advanced learning materials for our React beginner workshop and added them to our collection.
+Those were mostly about state management.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** 
+While researching learning resources, I accidentally learned about some of the key differences between Redux and MobX.
+Kind of productive first day, even though I did not write any "real" code.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1102701833750020098)
+**Link to work:** [Project Repo](https://github.com/Haimchen/100-days-of-code)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Resources** 
+https://www.howtographql.com/angular-apollo/8-subscriptions/ - example with apollo & angular
+https://www.apollographql.com/docs/react/advanced/subscriptions.html - guide for apollo
+https://github.com/the-road-to-graphql/fullstack-apollo-subscription-example - small  example
