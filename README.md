@@ -7,6 +7,9 @@ But in the spirit of git, I have forked the challenge and its rules to adapt the
 * [My Rules](rules.md)
 * [My Log - click here to see my progress](log.md)
 
+### Try 1
+[Log for my first Try](try1-log.md)
+
 ---
 
 ## The original challenge
