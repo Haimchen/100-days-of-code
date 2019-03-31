@@ -47,3 +47,24 @@ And CSS is just CSS. It is a real challenge to adjust a wordpress theme with min
 
 **Resources**
 [Three Index Slices in Go](https://www.ardanlabs.com/blog/2013/12/three-index-slices-in-go-12.html)
+
+
+### Day 3: March 31, 2019
+
+**Today's Progress**:
+Short day, short Update: I fixed our repo for the React workshop.
+Had to rewrite the git history a bit to fix an error in one of the first steps.
+So a lot of git voodoo and a courageous force push at the end.
+
+
+**Thoughts:**
+I should write a blog post about this. Changing the git history can be so useful for cases like this.
+Might also help people doing code challenges for a job :-)
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1112473324804866050)
+
+**Link to work:** [Fixed Repo](https://github.com/WomenWhoCode/wwcodeberlin-react-workshop)
+
+**Resources**
+[Rewriting Git History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
