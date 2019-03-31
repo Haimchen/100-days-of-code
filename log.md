@@ -41,7 +41,7 @@ Also Go is awesome and Bill Kennedy a great teacher.
 And CSS is just CSS. It is a real challenge to adjust a wordpress theme with minimal use of `!important`.
 
 
-**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1112285446028050432)
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1112288496641892352)
 
 **Link to work:** [Go Examples](https://github.com/Haimchen/story-of-slices)
 
