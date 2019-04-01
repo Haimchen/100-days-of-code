@@ -68,3 +68,27 @@ Might also help people doing code challenges for a job :-)
 
 **Resources**
 [Rewriting Git History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+
+
+
+### Day 4: April 1, 2019
+
+**Today's Progress**:
+Spend a lot of time with the Gatsby.js tutorials and docs.
+I wanted to try it for a new project with my husband, but in the process I discovered that it is not the right tool.
+So I switched to React and Apollo instead (bootstrapped with create-react-app).
+Next time I will have a look at typescript and rewrite the project (it is just tiny for now).
+I also read a bit about how the current react version supports code splitting with lazy().
+
+
+**Thoughts:**
+What we need is an app that fetches data almost live.
+So the perfect case for GraphQL subscriptions! Should be simple enough with Apollo.
+Gatsby looks good, but more for a site that is built off a CMS.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1112830149656023046)
+
+**Resources**
+[Code Splitting with React](https://reactjs.org/docs/code-splitting.html)
+[Using a React App with a Full Stack Framework](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
