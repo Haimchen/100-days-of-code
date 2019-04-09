@@ -92,3 +92,106 @@ Gatsby looks good, but more for a site that is built off a CMS.
 **Resources**
 [Code Splitting with React](https://reactjs.org/docs/code-splitting.html)
 [Using a React App with a Full Stack Framework](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
+
+
+### Day 5: April 2, 2019
+
+**Today's Progress**:
+Hack Evening time, so I lost some of my coding time to organizational stuff like setting dates for the next events.
+Also checked of some of the remaining todos for the React workshop.
+I tried to also watch a video on Gatsby and Apollo which was interesting.
+
+
+**Thoughts:**
+Still some final tasks open for the workshop and it is already happening in two weeks!
+Gatsby seem to offer some really nice features for a site that combines data from different sources and supposedly makes it load fast.
+Really curious to try it on a real project.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1113338841837051904)
+
+**Resources**
+[Video: Beyond Static - Gatsby + Apollo](https://www.youtube.com/watch?v=wNUg1jpj9T0)
+
+
+### Day 6: April 3, 2019
+
+**Today's Progress**:
+Worked on my husbands newest project and added the first form to send a mutation.
+I used Apollo and my first hook ever!
+Loved how clean the hooks are and how uncluttered the file looks.
+Have to say I was not too happy about Apollos render prop API. That causes too much indentation for my taste.
+I also tried to remember form accessibility best practices, but I need to check that to be sure I remembered correctly.
+
+
+**Thoughts:**
+This is already confusing, I need a project overview and tags per project I am working on in parallel. Might be too many...
+Love the new hooks, my form component was so nice and ordered using ` useState` as compared to how I had built it as a class.
+Today I also talked to a friend who wants to start a coaching business and I wanted to recommend her something to built a simple business website.
+But it is really hard to chose!
+If I would make it for here, I would probably use it as a chance to try Gatsby plus a headless CMS :-)
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1112830149656023046)
+
+**Resources**
+[Code Splitting with React](https://reactjs.org/docs/code-splitting.html)
+[Using a React App with a Full Stack Framework](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
+
+
+### Day 7: April 4, 2019
+
+**Today's Progress**:
+Worked on the project repo for the react workshop and added some final touches here and there.
+Also a little bit of git magic with interactive rebase to fixup / squash some commits.
+Also read through the material again and added an overview of the steps, so I wrote a lot about code and just a tiny bit of code.
+
+
+**Thoughts:**
+I should really prioritise my blog higher.
+Having a place to collect all the things I learn and thoughts I have would be so useful!
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1113928608807030784)
+
+
+### Day 8: April 6, 2019
+
+**Today's Progress**:
+Added another layer of form nesting to the husband's project and it is still so pretty!
+I have about 130 lines of code for the whole form with now 4 different inputs, including the GraphQL mutation.
+Besides admiring the code I have started to think about the CSS and how I want to handle that.
+But it is a hard decision, as my skills in organising CSS are not very great - I am lacking good examples.
+
+
+**Thoughts:**
+Hooks look so nice and clean in compairson to some of the alternatives. I love it.
+Next up will be some accessibility checks on the form and some CSS added.
+For now it only has the very basic stuff.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1114685781312974848)
+
+
+
+### Day 9: April 7, 2019
+
+**Today's Progress**:
+Did some research on CSS and how to organise styles. My current plan is to go with a CSS/ SCSS approach and not use CSS-in-JS.
+We will see how long I can stick to that!
+Rachel Andrew's CSS courses look really good, I have started the free one on the basics, but unfortunately the advanced ones are not free.
+I am thinking about buying the one about structuring CSS...
+
+
+**Thoughts:**
+I feel like CSS-in-JS is so attractive in an existing project, is that it easily allows to scope the styles to one component only.
+And if the existing CSS is already a mess, this might feel like the only way to change something without breaking everything in unknown places.
+Variable sharing is also nice, I assume.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1115128696522907653)
+
+**Resources**
+[Prodigy Finance Style Guide - BEM like approach](http://uif.prodigyfinance.com/v2.0/docs/base/developing-css-js.html)
+[Rachel Andrew's CSS Basics Course](https://thecssworkshop.com/css-basics)
+
