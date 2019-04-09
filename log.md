@@ -195,3 +195,26 @@ Variable sharing is also nice, I assume.
 [Prodigy Finance Style Guide - BEM like approach](http://uif.prodigyfinance.com/v2.0/docs/base/developing-css-js.html)
 [Rachel Andrew's CSS Basics Course](https://thecssworkshop.com/css-basics)
 
+
+### Day 10: April 9, 2019
+
+**Today's Progress**:
+I wrote two articles for my unpublished tech blog!
+They are only short ones, but I hope this helps me to get more into the hapit of writing things down for the blog.
+Both are about handy tricks to debug and refactor javascript / React code that help me in my daily work.
+Still counts, because usually I am not writing about it!
+
+
+**Thoughts:**
+I need to bit the bullet one day and really work on the style (or at least pick a theme!) to finally publish this blog.
+Probably best if I set myself some kind of deadline, like write 10 posts until May 1st and then it is Go Live!
+At least I have some more notes lined up for more articles to write.
+The next one will be less technical but more about roles in tech teams and what we can learn from RPGs.
+Just need to figure out which Games is very widely known and makes a good example...
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1115706769274298368)
+
+**Resources**
+[Hugo Docs - Links and Cross References](https://gohugo.io/content-management/cross-references/)
+
