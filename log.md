@@ -218,3 +218,29 @@ Just need to figure out which Games is very widely known and makes a good exampl
 **Resources**
 [Hugo Docs - Links and Cross References](https://gohugo.io/content-management/cross-references/)
 
+
+
+### Day 11: April 10, 2019
+
+**Today's Progress**:
+Started another article for my blog, but I count it only partially because it is more process than programming related.
+But I did build something nice:
+A new react app that renders a dynamic Game board.
+Dimensions can be passed in and the component creates as many fields as are needed.
+The layout is done with CSS grid (and flex inside the fields).
+Was also looking at themes for Hugo, but still no decision made.
+I also learned about `String.repeat(n)` in Javascript and `Array.fill()`.
+
+
+**Thoughts:**
+Being able to build a dynamic grid layout based on some props (width and height) feels amazing.
+Next step will be to figure out how to handle the state of the children (fields) because they should be active / inactive.
+It is also always worth it to check the Docs for the standard library if I do not now a nice way to do something.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1115706769274298368)
+
+**Resources**
+[CSS Tricks: CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[Hugo Theme - Hyde](https://themes.gohugo.io/hyde-hyde/)
+
