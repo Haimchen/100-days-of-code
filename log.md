@@ -238,9 +238,103 @@ Next step will be to figure out how to handle the state of the children (fields)
 It is also always worth it to check the Docs for the standard library if I do not now a nice way to do something.
 
 
-**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1115706769274298368)
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1116100687488745473)
 
 **Resources**
 [CSS Tricks: CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 [Hugo Theme - Hyde](https://themes.gohugo.io/hyde-hyde/)
+
+
+### Day 12: April 11, 2019
+
+**Today's Progress**:
+I read some in depth blog posts on React hooks, useEffect in particular.
+After that I was very motivated to put some of my new knowledge to work, but then I got distracted:
+I worked on my GraphQL subscription game frontend and got very excited when I discovered how CSS can be used on Emojis.
+
+**Thoughts:**
+Emojis with a bit of CSS can be great way to add icons to an app.
+transforms and filters work well to e.g. flip them or change the colors.
+React hooks continue to be a great addition. All the examples I see look so much shorter and cleaner than the same code with classes.
+Well, not the same: In Dan Abramov's blog post he explains some of the finer differences between useEffect and the lifecycle methods.
+In many ways hooks are even better!
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1116478511680761856)
+
+**Resources**
+[Dan Abramov's Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+[Rules of Hooks - React Docs](https://reactjs.org/docs/hooks-rules.html)
+[How to fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
+### Day 13: April 12, 2019
+
+**Today's Progress**:
+Today I was really exhausted from work, so not much was done at home.
+I read an interesting article about logging in distributed systems.
+And I prepared for an Elm workshop I am doing tomorrow. Installed the language, checked that everything works and also added some vim syntax highlighting and an autoformatter.
+
+
+**Thoughts:**
+Excited for the workshop! Elm has been on my list of things I want to learn for years now.
+And it is one of the main influences on the design of react.
+The article on logging was really useful, because it explained some of the "old" best practices and why they do not make sense any more in modern, distributed environments.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1116829232909430787)
+
+**Resources**
+[Logs vs. Structured Events by mipsytipsy](https://charity.wtf/2019/02/05/logs-vs-structured-events/)
+
+
+### Day 14: April 13, 2019
+
+**Today's Progress**:
+I learned the Basics of Elm at a full day workshop with ElmBridge.
+The curriculum started with some basics where we had function headers and tests given and had to implement the functions.
+After that we worked on a small project: A webapp to encrypt and decrypt text with emojis.
+
+
+**Thoughts:**
+The curriculum was really well structured and had a good flow.
+I feel I learned a lot and enjoyed working with the language. I am defintely interested in learning more, especially about the core aspects of a real world project:
+Code splitting / modules and connecting to APIs are the ones on top of the list.
+We also did not cover some of the cool functional features like Maybe types and pattern matching.
+What I am not too fond of is what the view part looks like:
+Even though I was initally very sceptical of JSX, I would now prefer it because it looks more natural and very close to the final HTML.
+
+
+**Link to tweet** [Status Tweet](https://twitter.com/Go_Haimchen/status/1117113593160400896)
+
+**Link to work:** [My Emoji Encryption App](http://emoji-encyrption.getforge.io/)
+[My pull request against the curriculum repo](https://github.com/elmbridge/curriculum/pull/133)
+
+**Resources**
+[ElmBridge Curriculum](https://elmbridge.github.io/curriculum/)
+
+### Day 15: April 14, 2019
+
+**Today's Progress**:
+I wanted to learn more about Elm so I went on to find answers to some of the questions I had after the workshop.
+1. There seems to be a GraphQL implementation for Elm!
+2. There are libraries to support server side rendering
+3. I also read a few sections of the offical guide, in particular the section about optimizations.
+4. It might be worthwile to explore Elm for Games: Apparently it is smaller and more efficient than most pure javascript libraries.
+
+
+**Thoughts:**
+The official guide describes the optimisation techniques really well. This seems to be one aspect where Elm heavily influenced the design of react.
+It also uses a virtual DOM to track changes and diffing to decide when the real DOM needs to update.
+It also provides keys as an optional feature. React went one step further in this and made them a requirement for lists of elements.
+
+Now that I know that Elm works with GraphQL, I think my next step will be a PoC with Elm and GraphQL subscriptions.
+
+
+**Link to tweet** [Status Tweet]()
+
+**Resources**
+[Elm Offical Guide](https://guide.elm-lang.org/)
+[Elm SVG Package](https://package.elm-lang.org/packages/elm/svg/latest)
+[Elm Conf Repo (uses GraphQL)](https://github.com/elm-conf/2019.elm-conf.com)
+[elm-graphql package](https://github.com/dillonkearns/elm-graphql)
 
